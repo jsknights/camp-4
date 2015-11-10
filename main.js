@@ -1,2 +1,6 @@
 // By Bender and Fry
-console.log('Hello World');
+
+// This is my contribution 
+function greet() {
+	console.log('Hello World');
+}

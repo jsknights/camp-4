@@ -1,6 +1,8 @@
 // By Bender and Fry
 
 // This is my contribution 
-function greet() {
+function printGreeting() {
 	console.log('Hello World');
 }
+
+printGreeting();

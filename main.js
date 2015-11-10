@@ -6,3 +6,5 @@ function printGreeting() {
 }
 
 printGreeting();
+
+// Another line
